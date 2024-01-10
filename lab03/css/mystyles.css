@@ -1,0 +1,29 @@
+body{
+    font-family: arial;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+
+td,tr,table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: rgb(176, 212, 255);
+}
+td{
+    height: 86px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 184, 197);
+
+}
+
+.content p{
+    margin: 5px;
+}
