@@ -31,7 +31,7 @@ body {
     transition: background-color 0.3s, transform 0.2s;
     }
     li.completed {
-    background-color: #d4edda;
+    background-color: #fca3cd;
     text-decoration: line-through;
     }
     input[type="text"] {
@@ -44,7 +44,7 @@ body {
     }
     button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #91d3fa;
     color: white;
     border: none;
     border-radius: 8px;
@@ -52,5 +52,5 @@ body {
     transition: background-color 0.3s;
     }
     button:hover {
-    background-color: #0056b3;
+    background-color: #fcf957;
     }
